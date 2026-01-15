@@ -1,3 +1,4 @@
+![Build](https://github.com/yashwanth14m/expense-manager/actions/workflows/maven.yml/badge.svg)
 # Smart Expense & Budget Manager — Backend
 
 A production-grade backend application for tracking expenses, managing monthly budgets, and generating expense analytics.  
